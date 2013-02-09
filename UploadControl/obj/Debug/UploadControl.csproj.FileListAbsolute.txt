@@ -1,0 +1,5 @@
+c:\users\sids\documents\visual studio 2010\Projects\UploadControl\UploadControl\bin\UploadControl.dll
+c:\users\sids\documents\visual studio 2010\Projects\UploadControl\UploadControl\bin\UploadControl.pdb
+c:\users\sids\documents\visual studio 2010\Projects\UploadControl\UploadControl\obj\Debug\ResolveAssemblyReference.cache
+c:\users\sids\documents\visual studio 2010\Projects\UploadControl\UploadControl\obj\Debug\UploadControl.dll
+c:\users\sids\documents\visual studio 2010\Projects\UploadControl\UploadControl\obj\Debug\UploadControl.pdb
