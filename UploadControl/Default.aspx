@@ -7,5 +7,10 @@
     <h2>
         Welcome to ASP.NET!
     </h2>
-    <uc:fu />
+    <uc:fu TableName="Table1" ContentPath="/Content"  runat="server"/>
+    
+    <br/>
+    <br/>
+    <br/>
+    <uc:fu ID="Fu1" TableName="Table2" ContentPath="/Content" runat="server"/>
 </asp:Content>
