@@ -1,4 +1,4 @@
 UploadControl
 =============
 
-Simplet file upload user control for asp.net
+Simple file upload user control for asp.net
